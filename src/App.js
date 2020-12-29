@@ -7,7 +7,6 @@ import FormControlLabel from "@material-ui/core/FormControlLabel";
 import Checkbox from "@material-ui/core/Checkbox";
 import { Link } from "react-router-dom";
 import Paper from "@material-ui/core/Paper";
-// import Box from "@material-ui/core/Box";
 import Grid from "@material-ui/core/Grid";
 import LockOutlinedIcon from "@material-ui/icons/LockOutlined";
 import Typography from "@material-ui/core/Typography";
@@ -32,7 +31,7 @@ const useStyles = makeStyles((theme) => ({
   },
   image: {
     backgroundImage:
-      "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxCQAh6mCcDvYgfAOJASCEs5m3YC04ltBqdw0-WpV1NFYGDo8eAxljAfBqgD6UzFWQO5_eqLVH6465seaD2-2RVEgel0M2y_02w&usqp=CAU&ec=45750089)",
+      "url(https://thumbs.dreamstime.com/z/hand-drawn-beautiful-cute-girl-big-lipstick-her-doing-makeup-vector-illustration-161199806.jpg)",
     backgroundRepeat: "no-repeat",
     backgroundColor:
       theme.palette.type === "light"
